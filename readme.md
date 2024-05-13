@@ -7,5 +7,5 @@ Description - Create a function that takes two numbers as arguments and returns 
 
 Folder: AdditionFunction
 
-completed: true
+Completed: true
 
