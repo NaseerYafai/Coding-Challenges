@@ -1,0 +1,17 @@
+{
+  "name": "coding-challenges",
+  "version": "1.0.0",
+  "description": "This is my coding challenges.",
+  "scripts": {
+    "test": "jest --no-coverage"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NaseerYafai/Coding-Challenges/issues"
+  },
+  "homepage": "https://github.com/NaseerYafai/Coding-Challenges#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
