@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "This is my coding challenges.",
   "scripts": {
-    "test": "jest --no-coverage"
+    "test": "jest"
   },
   "author": "",
   "license": "ISC",

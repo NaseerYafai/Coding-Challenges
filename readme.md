@@ -61,7 +61,8 @@ Your task is to implement the function logic inside the functionName function wh
 To test your solution, run the following command in your terminal or command prompt:
 
 ```
-npm run test -- --testPathPattern AdditionFunction (or the folder you have worked on)
+npm run test -- --testPathPattern AdditionFunction or
+npm run test -- --testPathPattern olderthanme (which ever one you worked on)
 
 ```
 
